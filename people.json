@@ -1,0 +1,60 @@
+{
+    "people": [
+        {
+            "name": "dan",
+            "lastName": "danino",
+            "age": 25,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "d@d.com"
+        },
+        {
+            "name": "mali",
+            "lastName": "mali",
+            "age": 25,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "n@d.com"
+        },
+        {
+            "name": "noam",
+            "lastName": "nam",
+            "age": 34,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "nam@d.com"
+        },
+        {
+            "name": "ran",
+            "lastName": "ron",
+            "age": 29,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "ron@d.com"
+        },
+        {
+            "name": "ron",
+            "lastName": "dali",
+            "age": 30,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "d@d.com"
+        },
+        {
+            "name": "dar",
+            "lastName": "mano",
+            "age": 26,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "d@mano.com"
+        },
+        {
+            "name": "dor",
+            "lastName": "danino",
+            "age": 37,
+            "phone number": "0524245488",
+            "city": "netanya",
+            "email": "d@d.com"
+        }
+    ]
+}
